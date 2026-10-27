@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Private preview. Remove the block only as part of an approved production launch.
+Sitemap: https://sakib.lol/soundvision/sitemap.xml

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <filter id="ink-paper" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+    <!-- Retain skin hues, reduce stock-photo chroma, then map black to ink
+         and white to warm paper. This is a grade, not a duotone. -->
+    <feColorMatrix type="saturate" values="0.68"/>
+    <feComponentTransfer>
+      <feFuncR type="linear" slope="0.87" intercept="0.08"/>
+      <feFuncG type="linear" slope="0.79" intercept="0.14"/>
+      <feFuncB type="linear" slope="0.68" intercept="0.20"/>
+    </feComponentTransfer>
+  </filter>
+</svg>

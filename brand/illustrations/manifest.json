@@ -1,0 +1,249 @@
+[
+  {
+    "id": "homepage-lead",
+    "alt": "A red table becomes a bridge between blue doorways, with small figures approaching it.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/homepage-lead.png",
+    "exports": [
+      {
+        "file": "homepage-lead-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "9edbc62bcfb743027f422a62e7f11320649715aece8747be1efc95c3e855fae3"
+      },
+      {
+        "file": "homepage-lead-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "e74f5ea638f470f4f6950fc61eb6caf604ec3db732779bf906e618ad1e4d2476"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "parenting",
+    "alt": "A large hand holds a sheltering leaf above a child reaching up beside a home.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/parenting.png",
+    "exports": [
+      {
+        "file": "parenting-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "18243b89ec68e43886fbaee6fc4aad6fa1817335830db914b3c6a7065ded8716"
+      },
+      {
+        "file": "parenting-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "d885272d4e644553cd224b421857b7d4271d04dcc5558aafdfd08f8e078a118d"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "youth-teens",
+    "alt": "A young person holds the string of a red kite beside a rising blue staircase.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/youth-teens.png",
+    "exports": [
+      {
+        "file": "youth-teens-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "9721795b109bdd7d44c889eaaadf226f95654453f8b2c7e572ee7446151cbbd5"
+      },
+      {
+        "file": "youth-teens-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "f0042d85b6dc57a9e03e94e8ad65950566d94f70248e2c5a07f7c251a46ada10"
+      }
+    ],
+    "squareCrop": "992x992+180+0, resized 1000x1000"
+  },
+  {
+    "id": "marriage-family",
+    "alt": "Two cups share a table; their handles form an open arch between them.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/marriage-family.png",
+    "exports": [
+      {
+        "file": "marriage-family-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "02e2b61d24b0ce164821fcef695f9f3703588420d8d2e86e7373ee2079058e20"
+      },
+      {
+        "file": "marriage-family-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "ff4f3c0128d5103e3e60fd02bc985ad607fc6069ca0771617a3e88fc17baa7d4"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "faith-worship",
+    "alt": "An empty prayer rug faces an open doorway and a quiet garden.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/faith-worship.png",
+    "exports": [
+      {
+        "file": "faith-worship-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "c72dd5e9fcc6df918b37f74d13123cd1861dc3af08f8d250f2ae01244caee964"
+      },
+      {
+        "file": "faith-worship-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "9104493082675f16206eb037823934c520fbf803b2815c3f40b9eff47f810825"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "ramadan",
+    "alt": "A blue crescent cradles a red bowl of dates and a glass of water.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/ramadan.png",
+    "exports": [
+      {
+        "file": "ramadan-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "f422dfe898e0e98f91fa154834ec2d1ffee076a00be5f739bd3a4e4406ab8202"
+      },
+      {
+        "file": "ramadan-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "72464e977b22ca0e165e894a0e698b7d493ae5146bf0c014aa874968bbc6c095"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "hajj-eid",
+    "alt": "A simplified Kaaba stands within circular paths as three travelers approach.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/hajj-eid.png",
+    "exports": [
+      {
+        "file": "hajj-eid-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "ac9899d448d6b29321dd76933c55241aabb02b7c8447502a9fd6d84a4ca21044"
+      },
+      {
+        "file": "hajj-eid-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "79037550a7d8ca6fed20bd5a80baa12102a1488e36dcf1a6b69b40c5312a6ed6"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "community-masjid",
+    "alt": "Three neighbors approach the open red doors of a blue mosque courtyard.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/community-masjid.png",
+    "exports": [
+      {
+        "file": "community-masjid-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "5c8894d87186a248891572872b809b555b7adf8d9d1e01bd47f16d59ddfe0326"
+      },
+      {
+        "file": "community-masjid-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "96ba7537fe221ef42ad6c8b6bf92b63cc9ac1ba7660916914dc7b13edd238d7d"
+      }
+    ],
+    "squareCrop": "992x992+180+0, resized 1000x1000"
+  },
+  {
+    "id": "civil-rights-justice",
+    "alt": "A small red wedge holds open an enormous blue door, revealing a person beyond.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/civil-rights-justice.png",
+    "exports": [
+      {
+        "file": "civil-rights-justice-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "8eac4dcaf88b9b935a67efe3e4c13165165fead3a28a7548798f7669808e5ba8"
+      },
+      {
+        "file": "civil-rights-justice-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "3dd3447de095e1c7f57feaac9ddfcaf5fa598d8627209503acdc0545dd3b7b42"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "interfaith",
+    "alt": "Two hands hold a branch across a river while two small figures meet on it.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/interfaith.png",
+    "exports": [
+      {
+        "file": "interfaith-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "868b189b37dcca992355bb63c881b04a7ff627d1f131a21ef9a930e8e443d985"
+      },
+      {
+        "file": "interfaith-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "2733dc6bf01c86f24b1a6fd58aadc55b8e74508bf0c611348c8969fcbb968d30"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "talking-points",
+    "alt": "Two monumental speech shapes make room for a person speaking and another listening.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/talking-points.png",
+    "exports": [
+      {
+        "file": "talking-points-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "30f2d66e05c94381b54be1d26c9a2dffeca9f92a5f3dede6b355d391b14aacd0"
+      },
+      {
+        "file": "talking-points-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "8f6e3e290b4ff04a5659fc65bef65994a08790b405c1e89d2218b804fa113b09"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "quran-seerah",
+    "alt": "A blank open book rests on a wooden stand beneath a red-leafed branch.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/quran-seerah.png",
+    "exports": [
+      {
+        "file": "quran-seerah-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "226d8ed28b97f7910bd20dcceebe0e4041cd44c2de45b9e4fa4632e3cf9b9fc8"
+      },
+      {
+        "file": "quran-seerah-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "426d38a312fea91763e0d93a5f03ac563259dfba7c3de59cc6a8db03d70aa87e"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  },
+  {
+    "id": "health-wellbeing",
+    "alt": "A person rests in a chair beneath a sheltering red leaf beside an open path.",
+    "generation": "built-in image_gen; original generated artwork",
+    "master": "masters/health-wellbeing.png",
+    "exports": [
+      {
+        "file": "health-wellbeing-1600x1000.png",
+        "size": "1600x1000",
+        "sha256": "23c0c78c6bc6acd27e2871a8173cb283990928e77e2d27a641907caf24ab3eed"
+      },
+      {
+        "file": "health-wellbeing-1000x1000.png",
+        "size": "1000x1000",
+        "sha256": "2ce024631f13c77c0864b8482140e1e093c7c7d5ae7d85bc5fab2b5f859b9360"
+      }
+    ],
+    "squareCrop": "center crop to square, resized 1000x1000"
+  }
+]
